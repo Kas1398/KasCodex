@@ -22,6 +22,12 @@ body {
   justify-content: space-between;
 }
 
+h2 {
+  color: rgb(255, 149, 0);
+  padding: auto;
+  margin-top: 30px;
+}
+
 #chat_container {
   flex: 1;
   width: 100%;
